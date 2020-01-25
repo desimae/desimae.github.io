@@ -50,7 +50,7 @@ hr.star-primary {
 
 hr.star-light:after,
 hr.star-primary:after {
-    content: "\f005";
+    /* content: "\f11b"; */
     display: inline-block;
     position: relative;
     top: -.8em;
@@ -84,7 +84,15 @@ hr.star-primary:after {
 header {
     text-align: center;
     color: #fff;
-    background: #{{ site.color.primary }};
+    /* background-image: url(./img/funky-lines.png); */
+    background-repeat: repeat;
+    background-color: #{{ site.color.primary }};
+    /* background-image: radial-gradient(circle, #59b77e, #59c27f, #5bce7f, #5dda7f, #60e57e); */
+    
+}
+
+#contact{
+    /* background-image: url(./img/funky-lines.png); */
 }
 
 header .container {
@@ -204,13 +212,13 @@ section.success {
 }
 
 #portfolio .portfolio-item .portfolio-link {
-    display: block;
+    display: inline;
     position: relative;
     margin: 0 auto;
     max-width: 400px;
 }
 
-#portfolio .portfolio-item .portfolio-link .caption {
+.portfolio-item .portfolio-link .caption {
     position: absolute;
     width: 100%;
     height: 100%;
@@ -234,6 +242,11 @@ section.success {
     text-align: center;
     font-size: 20px;
     color: #fff;
+}
+
+#portfolio{
+    /* background-color: red; */
+        background-image: url(./img/memphis-colorful.png);
 }
 
 #portfolio .portfolio-item .portfolio-link .caption .caption-content i {
