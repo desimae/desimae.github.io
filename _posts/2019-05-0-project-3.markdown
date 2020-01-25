@@ -2,7 +2,7 @@
 layout: default
 modal-id: 3
 title: First Person Prototype
-date: 2019-05-0
+date: 2019-05-01
 img: walkingPrototype.png
 alt: image-alt
 project-date: May 2019

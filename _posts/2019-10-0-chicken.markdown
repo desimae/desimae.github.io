@@ -2,7 +2,7 @@
 layout: default
 modal-id: 1
 title: Chicken Crossy
-date: 2019-10-0
+date: 2019-10-01
 img: chicken.png
 alt: image-alt
 project-date: October 2019
