@@ -1,6 +1,6 @@
 ---
 layout: default
-modal-id: 2
+modal-id: 1
 date: 2019-04-01
 title: Navigation Point-Click Game
 img: navigationPrototype.png
