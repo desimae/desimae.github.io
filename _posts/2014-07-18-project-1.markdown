@@ -7,6 +7,6 @@ img: lol.png
 alt: image-alt
 project-date: Novemeber 2018
 category: Game Development
-description: A quick text game made with twine to show the type of League of Legends character that fits you.
+description: A quick text game made with twine to show the type of League of Legends character that fits you. <a href="https://desimae.itch.io/league-of-lore">Play Here</a>.
 
 ---

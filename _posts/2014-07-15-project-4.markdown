@@ -5,7 +5,7 @@ title: Kitty Poly
 date: 2014-07-15
 img: kittyPoly.png
 alt: image-alt
-project-date: February 2019
+project-date: July 2019
 category: Game Development
 
 description: A cute game made for the ICT GameJam 2019 Winter with only 48 hours to work on it. The theme was "Start with nothing". Created in a two person team with my task doing all the visuals and 3D Modeling. You play as a mischeavious cat who starts collecting things into a ball. <a href="https://ramilhinshaw.itch.io/kitty-poly">Play Here</a>.
