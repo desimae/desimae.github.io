@@ -2,7 +2,7 @@
 layout: default
 modal-id: 1
 title: Kitty Poly
-date: 2014-07-15
+date: 2019-07-0
 img: kittyPoly.png
 alt: image-alt
 project-date: July 2019
