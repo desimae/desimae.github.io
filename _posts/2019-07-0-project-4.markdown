@@ -8,7 +8,7 @@ alt: image-alt
 project-date: July 2019
 category: Game Development
 
-description: A cute game made for the ICT GameJam 2019 Winter with only 48 hours to work on it. The theme was "Start with nothing". Created in a two person team with my task doing all the visuals and 3D Modeling. You play as a mischeavious cat who starts collecting things into a ball. <a href="https://ramilhinshaw.itch.io/kitty-poly">Play Here</a>.
+description: A cute game made for the ICT GameJam 2019 Winter with only 48 hours to work on it. The theme was "Start with nothing". Created in a two person team with my task doing all the visuals and 3D Modeling. You play as a mischeavious cat who starts collecting things into a ball. We won third place with this project. <a href="https://ramilhinshaw.itch.io/kitty-poly">Play Here</a>.
 
 ---
 
