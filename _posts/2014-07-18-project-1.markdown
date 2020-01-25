@@ -1,14 +1,12 @@
 ---
 layout: default
-modal-id: 1
-title: Kitty Poly
+modal-id: 4
+title: League Of Legends Twine Game
 date: 2014-07-18
-img: kittyPoly.png
+img: lol.png
 alt: image-alt
-project-date: February 2019
+project-date: Novemeber 2018
 category: Game Development
-
-description: A cute game made for the ICT GameJam 2019 Winter with only 48 hours to work on it. The theme was "Start with nothing". Created in a two person team with my task doing all the visuals and 3D Modeling. You play as a mischeavious cat who starts collecting things into a ball. <a href="https://ramilhinshaw.itch.io/kitty-poly">Play Here</a>.
+description: A quick text game made with twine to show the type of League of Legends character that fits you.
 
 ---
-
