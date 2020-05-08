@@ -60,7 +60,8 @@ address:
   - line: Kansas
 
 # Credits content
-credits: 'Built with HTML, CSS. Generated with Jekyll on Github.'
+credits: 'Built with HTML, CSS.'
+credits2: 'Generated with Jekyll on Github.'
 
 # Build settings
 markdown: kramdown
