@@ -39,20 +39,20 @@ footer:
 
 # Social networks usernames (many more available: google-plus, flickr, dribbble, pinterest, instagram, tumblr, linkedin, etc.)
 social:
-  - title: twitter
-    url: https://twitter.com/DesireeHinshaw
-
-  - title: facebook
-    url: https://www.facebook.com/desiree.hinshaw
-
-  - title: instagram
-    url: https://www.instagram.com/desi_mae/
-
   - title: linkedin
     url: https://www.linkedin.com/onboarding/start/people-you-may-know/existing/
 
   - title: itch-io
     url: https://desimae.itch.io/
+
+  # - title: twitter
+  #   url: https://twitter.com/DesireeHinshaw
+
+  # - title: facebook
+  #   url: https://www.facebook.com/desiree.hinshaw
+
+  # - title: instagram
+  #   url: https://www.instagram.com/desi_mae/
 
 # Postal address (add as many lines as necessary)
 address:
@@ -60,8 +60,9 @@ address:
   - line: Kansas
 
 # Credits content
-credits: 'Built with HTML, CSS.'
-credits2: 'Generated with Jekyll on Github.'
+credits: 
+  - line: Built with HTML, CSS.
+  - line: Generated with Jekyll on Github.
 
 # Build settings
 markdown: kramdown
