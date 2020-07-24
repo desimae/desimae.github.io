@@ -1,6 +1,6 @@
 ---
 layout: default
-modal-id: 3
+modal-id: 1
 title: Kitty Poly
 date: 2019-07-01
 img: kittyPoly.png

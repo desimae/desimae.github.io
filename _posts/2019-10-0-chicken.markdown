@@ -1,6 +1,6 @@
 ---
 layout: default
-modal-id: 4
+modal-id: 2
 title: Chicken Crossy
 date: 2019-10-01
 img: chicken.png
